@@ -2,7 +2,7 @@
 
 My name is Jordy van den Aardweg, I am a freelance frontend developer based in Amsterdam. 
 
-Currently building Intelligent AI Sales agents @ [sparkbase.ai](https://sparkbase.ai).
+Currently building AI Search Optimization at @ [promptwatch.com](https://promptwatch.com).
 
 I have a passion for building beautiful and functional web applications, and skilled in using TypeScript, React, and Node. 
 
