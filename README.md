@@ -8,4 +8,4 @@ I have a passion for building beautiful and functional web applications, and ski
 
 In my free time, I enjoy working on open source projects and staying up to date with the latest developments in the tech industry.
 
-[Reach out to me on LinkedIn](https://www.linkedin.com/in/jvandenaardweg/) or visit [Writekit.ai](https://writekit.ai)
+[Reach out to me on LinkedIn](https://www.linkedin.com/in/jvandenaardweg/)
